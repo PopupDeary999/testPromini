@@ -1,0 +1,28 @@
+{
+    "TypeMenu": [
+        { "typeMenu_Id": "1", "typeMenu_Name": "Drink"},
+        { "typeMenu_Id": "2", "typeMenu_Name": "Food"}
+    ],
+    "Menu":[
+      { "menu_Id": "025", "menu_Name": "Ice","typeMenu_id": "1","unit": "bucket","price": 10,"amount": 500},
+      { "menu_Id": "026", "menu_Name": "Water size(S)","typeMenu_id": "1","unit": "Bottle","price": 10,"amount": 1200},
+      { "menu_Id": "027", "menu_Name": "Water size(L)","typeMenu_id": "1","unit": "Bottle","price": 20,"amount": 1200},
+      { "menu_Id": "028", "menu_Name": "Soda","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "029", "menu_Name": "Fanta Strawberry size(S)","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "030", "menu_Name": "Fanta Strawberry size(L)","typeMenu_id": "1","unit": "Bottle","price": 25,"amount": 1200},
+      { "menu_Id": "031", "menu_Name": "Fanta Orange size(S)","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "032", "menu_Name": "Fanta Orange size(L)","typeMenu_id": "1","unit": "Bottle","price": 25,"amount": 1200},
+      { "menu_Id": "033", "menu_Name": "Fanta Green size(S)","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "034", "menu_Name": "Fanta Green size(L)","typeMenu_id": "1","unit": "Bottle","price": 25,"amount": 1200},
+      { "menu_Id": "035", "menu_Name": "Fanta Coke size(S)","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "036", "menu_Name": "Fanta Coke size(L)","typeMenu_id": "1","unit": "Bottle","price": 25,"amount": 1200},
+      { "menu_Id": "037", "menu_Name": "Fanta Pepsi size(S)","typeMenu_id": "1","unit": "Bottle","price": 15,"amount": 1200},
+      { "menu_Id": "038", "menu_Name": "Fanta Pepsi size(L)","typeMenu_id": "1","unit": "Bottle","price": 25,"amount": 1200},
+      { "menu_Id": "039", "menu_Name": "Chang beer","typeMenu_id": "1","unit": "Bottle","price": 56,"amount": 1200},
+      { "menu_Id": "040", "menu_Name": "Chang beer","typeMenu_id": "1","unit": "can","price": 52,"amount": 1200},
+      { "menu_Id": "041", "menu_Name": "Leo beer","typeMenu_id": "1","unit": "Bottle","price": 57,"amount": 1200},
+      { "menu_Id": "042", "menu_Name": "Leo beer","typeMenu_id": "1","unit": "can","price": 37,"amount": 1200}
+      
+    ]
+    
+  }
